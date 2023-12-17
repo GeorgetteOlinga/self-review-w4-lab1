@@ -1,0 +1,3 @@
+Touch an index.html ---use (.html) to create html file in the terminal---------
+
+in the index.html -----use the (! [tab]) to create the HTML boilerplate (entete)------------
